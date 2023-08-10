@@ -1,0 +1,5 @@
+requests~=2.31.0
+awscli
+flask
+
+selenium~=4.10.0
